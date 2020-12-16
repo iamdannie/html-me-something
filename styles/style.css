@@ -1,0 +1,19 @@
+body {
+    background-color: #e01818;
+    margin: 20px;
+    padding: 2px;
+  }
+  
+   main h1 { /* This is my element reference */
+    font-size: 16pt;
+    font: bolder;
+  }
+  
+  .my-cool-style { /* this is my class reference */
+    font-stretch: extra-expanded;
+  }
+  
+  #redBackground { /* this is my id reference */
+    background-color: #2a5464;
+    text-align: center;
+  }
